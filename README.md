@@ -6,9 +6,7 @@ Diseñar programa JAVA que cree tipo enumerado para meses del año
 
 ```
    
-   🔴 Diseña un programa Java que cree un tipo enumerado para los meses del año. 
-   
-       El programa debe realizar las siguientes operaciones:
+   🔴 Diseña un programa que cree un tipo enumerado para los meses del año. Debe realizar:
 
    🏴‍ Crear variable m tipo enumerado y asignarle el mes de marzo. 
       Mostrar por pantalla su valor.
